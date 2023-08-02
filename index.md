@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
+  name: "知识库"
   text: "A VitePress Site"
   tagline: My great project tagline
   actions:
@@ -23,3 +23,4 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+<meta name="referrer" content="no-referrer" />
