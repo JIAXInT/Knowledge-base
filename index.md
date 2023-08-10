@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "知识库"
   text: "justic的知识库"
-  tagline: My great project tagline
+  tagline: justic的知识库
   actions:
     - theme: brand
       text: Markdown Examples
