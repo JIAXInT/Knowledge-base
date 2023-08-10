@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "知识库"
-  text: "A VitePress Site"
+  text: "justic的知识库"
   tagline: My great project tagline
   actions:
     - theme: brand
