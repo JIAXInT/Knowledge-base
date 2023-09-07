@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/Knowledge-base/",
   title: "知识库",
   description: "A VitePress Site",
   ignoreDeadLinks: true,
@@ -66,14 +67,70 @@ export default defineConfig({
           text: "JavaScript设计模式",
           items: [
             {
-              text: "02",
+              text: "01 开篇：前端工程师的成长论",
+              link: "/docs/Design_pattern/01 开篇：前端工程师的成长论",
+            },
+            {
+              text: "02 设计模式的“道”与“术”",
               link: "/docs/Design_pattern/02 设计模式的“道”与“术”",
+            },
+            {
+              text: "03 创建型：工厂模式·简单工厂——区分“变与不变”",
+              link: "/docs/Design_pattern/03 创建型：工厂模式·简单工厂——区分“变与不变”",
+            },
+            {
+              text: "04 创建型：工厂模式·抽象工厂——理解“开放封闭”",
+              link: "/docs/Design_pattern/04 创建型：工厂模式·抽象工厂——理解“开放封闭”",
+            },
+            {
+              text: "05 创建型：单例模式——Vuex的数据管理哲学",
+              link: "/docs/Design_pattern/05 创建型：单例模式——Vuex的数据管理哲学",
+            },
+            {
+              text: "06 创建型：单例模式——面试真题手把手教学",
+              link: "/docs/Design_pattern/06 创建型：单例模式——面试真题手把手教学",
+            },
+            {
+              text: "07 创建型：原型模式——谈Prototype无小事",
+              link: "/docs/Design_pattern/07 创建型：原型模式——谈Prototype无小事",
+            },
+            {
+              text: "08 结构型：装饰器模式——对象装上它，就像开了挂",
+              link: "/docs/Design_pattern/08 结构型：装饰器模式——对象装上它，就像开了挂",
+            },
+            {
+              text: "09 结构型：装饰器模式——深入装饰器原理与优秀案例",
+              link: "/docs/Design_pattern/09 结构型：装饰器模式——深入装饰器原理与优秀案例",
+            },
+            {
+              text: "10 结构型：适配器模式——兼容代码就是一把梭",
+              link: "/docs/Design_pattern/10 结构型：适配器模式——兼容代码就是一把梭",
+            },
+            {
+              text: "11 结构型：代理模式——一家小型婚介所的发家致富之路",
+              link: "/docs/Design_pattern/11 结构型：代理模式——一家小型婚介所的发家致富之路",
+            },
+            {
+              text: "12 结构型：代理模式——应用实践范例解析",
+              link: "/docs/Design_pattern/12 结构型：代理模式——应用实践范例解析",
+            },
+            {
+              text: "15 行为型：观察者模式——鬼故事：产品经理拉了一个钉钉群",
+              link: "/docs/Design_pattern/15 行为型：观察者模式——鬼故事：产品经理拉了一个钉钉群",
+            },
+            {
+              text: "16 行为型：观察者模式——面试真题手把手教学",
+              link: "/docs/Design_pattern/16 行为型：观察者模式——面试真题手把手教学",
+            },
+            {
+              text: "17 行为型：迭代器模式——真·遍历专家",
+              link: "/docs/Design_pattern/17 行为型：迭代器模式——真·遍历专家",
             },
           ],
         },
       ],
     },
 
-    socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/JIAXInT/Knowledge-base" }],
   },
 });

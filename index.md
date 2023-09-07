@@ -6,6 +6,9 @@ hero:
   name: "知识库"
   text: "justic的知识库"
   tagline: justic的知识库
+  image:
+    src: /bc.svg
+    alt: 网页的logo图标
   actions:
     - theme: brand
       text: Markdown Examples

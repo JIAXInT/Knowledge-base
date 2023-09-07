@@ -87,7 +87,7 @@ const dog = new Dog('旺财', 3)
 
 这段代码里的几个实体之间就存在着这样的关系：
 
-![img](https://user-gold-cdn.xitu.io/2019/3/11/1696bfe41aa0a184?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![](images\1.jpg)
 
 
 
@@ -109,7 +109,7 @@ dog.toString()
 
 
 
-![img](https://user-gold-cdn.xitu.io/2019/3/11/1696bfd959ce30b3?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![img](images/2.jpg)
 
 
 
@@ -142,7 +142,7 @@ console.log('李雷的habits数组是',  liLei.habits)
 
 
 
-![img](https://user-gold-cdn.xitu.io/2019/4/6/169f0e60f4a6e77b?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![img](images/3.jpg)
 
 
 
