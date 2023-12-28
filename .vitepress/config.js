@@ -15,6 +15,7 @@ export default defineConfig({
         items: [
           { text: "现代web布局", link: "/docs/Modern_web_layout/01.md" },
           { text: "JavaScript设计模式", link: "/docs/Design_pattern/01 开篇：前端工程师的成长论.md" },
+          { text: "TypeScript全面进阶指南", link: "/docs/TypeScript_guide/1.开篇：用正确的方式学习 TypeScript.md" },
         ],
       },
       {
@@ -125,6 +126,146 @@ export default defineConfig({
             {
               text: "17 行为型：迭代器模式——真·遍历专家",
               link: "/docs/Design_pattern/17 行为型：迭代器模式——真·遍历专家",
+            },
+          ],
+        },
+      ],
+
+      "/docs/TypeScript_guide/": [
+        {
+          text: "TypeScript指南",
+          items: [
+            {
+              text: "1.开篇：用正确的方式学习 TypeScript.md",
+              link: "/docs/TypeScript_guide/1.开篇：用正确的方式学习 TypeScript.md",
+            },
+            {
+              text: "2.工欲善其事：打造最舒适的 TypeScript 开发环境.md",
+              link: "/docs/TypeScript_guide/2.工欲善其事：打造最舒适的 TypeScript 开发环境.md",
+            },
+            {
+              text: "3.进入类型的世界：理解原始类型与对象类型.md",
+              link: "/docs/TypeScript_guide/3.进入类型的世界：理解原始类型与对象类型.md",
+            },
+            {
+              text: "4.掌握字面量类型与枚举，让你的类型再精确一些.md",
+              link: "/docs/TypeScript_guide/4.掌握字面量类型与枚举，让你的类型再精确一些.md",
+            },
+            {
+              text: "5.函数与 Class 中的类型：详解函数重载与面向对象.md",
+              link: "/docs/TypeScript_guide/5.函数与 Class 中的类型：详解函数重载与面向对象.md",
+            },
+            {
+              text: "6.探秘内置类型：any、unknown、never 与类型断言.md",
+              link: "/docs/TypeScript_guide/6.探秘内置类型：any、unknown、never 与类型断言.md",
+            },
+            {
+              text: "7.类型编程好帮手：TypeScript 类型工具（上）.md",
+              link: "/docs/TypeScript_guide/7.类型编程好帮手：TypeScript 类型工具（上）.md",
+            },
+            {
+              text: "8.类型编程好帮手：TypeScript 类型工具（下）.md",
+              link: "/docs/TypeScript_guide/8.类型编程好帮手：TypeScript 类型工具（下）.md",
+            },
+            {
+              text: "9.类型编程基石：TypeScript 中无处不在的泛型.md",
+              link: "/docs/TypeScript_guide/9.类型编程基石：TypeScript 中无处不在的泛型.md",
+            },
+            {
+              text: "10.结构化类型系统：类型兼容性判断的幕后.md",
+              link: "/docs/TypeScript_guide/10.结构化类型系统：类型兼容性判断的幕后.md",
+            },
+            {
+              text: "11.类型系统层级：从 Top Type 到 Bottom Type.md",
+              link: "/docs/TypeScript_guide/11.类型系统层级：从 Top Type 到 Bottom Type.md",
+            },
+            {
+              text: "12.类型里的逻辑运算：条件类型与 infer.md",
+              link: "/docs/TypeScript_guide/12.类型里的逻辑运算：条件类型与 infer.md",
+            },
+            {
+              text: "13.内置工具类型基础：别再妖魔化工具类型了！.md",
+              link: "/docs/TypeScript_guide/13.内置工具类型基础：别再妖魔化工具类型了！.md",
+            },
+            {
+              text: "14.反方向类型推导：用好上下文相关类型.md",
+              link: "/docs/TypeScript_guide/14.反方向类型推导：用好上下文相关类型.md",
+            },
+            {
+              text: "15.数类型：协变与逆变的比较.md",
+              link: "/docs/TypeScript_guide/15.数类型：协变与逆变的比较.md",
+            },
+            {
+              text: "16.了解类型编程与类型体操的意义，找到平衡点.md",
+              link: "/docs/TypeScript_guide/16.了解类型编程与类型体操的意义，找到平衡点.md",
+            },
+            {
+              text: "17.内置工具类型进阶：类型编程进阶.md",
+              link: "/docs/TypeScript_guide/17.内置工具类型进阶：类型编程进阶.md",
+            },
+            {
+              text: "18.基础类型新成员：模板字符串类型入门.md",
+              link: "/docs/TypeScript_guide/18.基础类型新成员：模板字符串类型入门.md",
+            },
+            {
+              text: "19.类型编程新范式：模板字符串工具类型进阶.md",
+              link: "/docs/TypeScript_guide/19.类型编程新范式：模板字符串工具类型进阶.md",
+            },
+            {
+              text: "20.工程层面的类型能力：类型声明、类型指令与命名空间.md",
+              link: "/docs/TypeScript_guide/20.工程层面的类型能力：类型声明、类型指令与命名空间.md",
+            },
+            {
+              text: "21.在 React 中愉快地使用 TypeScript：内置类型与泛型坑位.md",
+              link: "/docs/TypeScript_guide/21.在 React 中愉快地使用 TypeScript：内置类型与泛型坑位.md",
+            },
+            {
+              text: "22.让 ESLint 来约束你的 TypeScript 代码：配置与规则集介绍.md",
+              link: "/docs/TypeScript_guide/22.让 ESLint 来约束你的 TypeScript 代码：配置与规则集介绍.md",
+            },
+            {
+              text: "23.全链路 TypeScript 工具库，找到适合你的工具.md",
+              link: "/docs/TypeScript_guide/23.全链路 TypeScript 工具库，找到适合你的工具.md",
+            },
+            {
+              text: "24.说说 TypeScript 和 ECMAScript 之间那些事儿.md",
+              link: "/docs/TypeScript_guide/24.说说 TypeScript 和 ECMAScript 之间那些事儿.md",
+            },
+            {
+              text: "25.装饰器与反射元数据：了解装饰器基本原理与应用.md",
+              link: "/docs/TypeScript_guide/25.装饰器与反射元数据：了解装饰器基本原理与应用.md",
+            },
+            {
+              text: "26.控制反转与依赖注入：基于装饰器的依赖注入实现.md",
+              link: "/docs/TypeScript_guide/26.控制反转与依赖注入：基于装饰器的依赖注入实现.md",
+            },
+            {
+              text: "27.TSConfig 全解（上）：构建相关配置.md",
+              link: "/docs/TypeScript_guide/27.TSConfig 全解（上）：构建相关配置.md",
+            },
+            {
+              text: "28.TSConfig 全解（下）：检查相关、工程相关配置.md",
+              link: "/docs/TypeScript_guide/28.TSConfig 全解（下）：检查相关、工程相关配置.md",
+            },
+            {
+              text: "29.基于 Prisma + NestJs 的 Node API ：前置知识储备.md",
+              link: "/docs/TypeScript_guide/29.基于 Prisma + NestJs 的 Node API ：前置知识储备.md",
+            },
+            {
+              text: "30.基于 Prisma + NestJs 的 Node API ：项目开发与基于 Heroku 部署.md",
+              link: "/docs/TypeScript_guide/30.基于 Prisma + NestJs 的 Node API ：项目开发与基于 Heroku 部署.md",
+            },
+            {
+              text: "31.玩转 TypeScript AST：AST Checker 与 CodeMod.md",
+              link: "/docs/TypeScript_guide/31.玩转 TypeScript AST：AST Checker 与 CodeMod.md",
+            },
+            {
+              text: "32.感谢相伴：是结束，也是开始.md",
+              link: "/docs/TypeScript_guide/32.感谢相伴：是结束，也是开始.md",
+            },
+            {
+              text: "33.漫谈篇：面试中的 TypeScript.md",
+              link: "/docs/TypeScript_guide/33.漫谈篇：面试中的 TypeScript.md",
             },
           ],
         },
