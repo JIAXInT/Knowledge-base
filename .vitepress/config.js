@@ -16,6 +16,7 @@ export default defineConfig({
           { text: "现代web布局", link: "/docs/Modern_web_layout/01.md" },
           { text: "JavaScript设计模式", link: "/docs/Design_pattern/01 开篇：前端工程师的成长论.md" },
           { text: "TypeScript全面进阶指南", link: "/docs/TypeScript_guide/1.开篇：用正确的方式学习 TypeScript.md" },
+          { text: "前端算法与数据结构面试：底层逻辑解读与大厂真题训练", link: "/docs/algorithm/1-面试总有套路，算法不是玄学——写给普通人的前端算法面试攻略.md" },
         ],
       },
       {
@@ -277,11 +278,11 @@ export default defineConfig({
           items: [
             {
               text: "1-面试总有套路，算法不是玄学——写给普通人的前端算法面试攻略",
-              link: "/docs/algorithm/1-面试总有套路，算法不是玄学——写给普通人的前端算法面试攻略",
+              link: "/docs/algorithm/1-面试总有套路，算法不是玄学——写给普通人的前端算法面试攻略.md",
             },
             {
               text: "2-快速上手——从0到1掌握算法面试需要的数据结构（一）",
-              link: "/docs/algorithm/2-快速上手——从0到1掌握算法面试需要的数据结构（一）",
+              link: "/docs/algorithm/2-快速上手——从0到1掌握算法面试需要的数据结构（一）.md",
             },
           ],
         },
