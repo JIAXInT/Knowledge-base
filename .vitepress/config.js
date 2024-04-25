@@ -284,6 +284,110 @@ export default defineConfig({
               text: "2-快速上手——从0到1掌握算法面试需要的数据结构（一）",
               link: "/docs/algorithm/2-快速上手——从0到1掌握算法面试需要的数据结构（一）.md",
             },
+            {
+              text: "3-快速上手——从0到1掌握算法面试需要的数据结构（二）",
+              link: "/docs/algorithm/3-快速上手——从0到1掌握算法面试需要的数据结构（二）.md",
+            },
+            {
+              text: "4-快速上手——从0到1掌握算法面试需要的数据结构（三）",
+              link: "/docs/algorithm/4-快速上手——从0到1掌握算法面试需要的数据结构（三）.md",
+            },
+            {
+              text: "5-递归初相见——二叉树递归遍历的三种姿势",
+              link: "/docs/algorithm/5-递归初相见——二叉树递归遍历的三种姿势.md",
+            },
+            {
+              text: "6-算法的衡量——轻松理解时间复杂度与空间复杂度",
+              link: "/docs/algorithm/6-算法的衡量——轻松理解时间复杂度与空间复杂度.md",
+            },
+            {
+              text: "7-数组的应用——真题归纳与解读",
+              link: "/docs/algorithm/7-数组的应用——真题归纳与解读.md",
+            },
+            {
+              text: "8-字符串的应用——真题归纳与解读",
+              link: "/docs/algorithm/8-字符串的应用——真题归纳与解读.md",
+            },
+            {
+              text: "9-链表的应用——真题归纳与解读",
+              link: "/docs/algorithm/9-链表的应用——真题归纳与解读.md",
+            },
+            {
+              text: "10-快慢指针与多指针——玩转链表复杂操作",
+              link: "/docs/algorithm/10-快慢指针与多指针——玩转链表复杂操作.md",
+            },
+            {
+              text: "11-姿势特别的链表——环形链表专题",
+              link: "/docs/algorithm/11-姿势特别的链表——环形链表专题.md",
+            },
+            {
+              text: "12-栈与队列怎么玩（上）",
+              link: "/docs/algorithm/12-栈与队列怎么玩（上）.md",
+            },
+            {
+              text: "13-栈与队列怎么玩（下）",
+              link: "/docs/algorithm/13-栈与队列怎么玩（下）.md",
+            },
+            {
+              text: "14-遍历专题：DFS 与 BFS",
+              link: "/docs/algorithm/14-遍历专题：DFS 与 BFS.md",
+            },
+            {
+              text: "15-场景化解读：递归与回溯思想在真题中的应用",
+              link: "/docs/algorithm/15-场景化解读：递归与回溯思想在真题中的应用.md",
+            },
+            {
+              text: "16-二叉树真题归纳与解读",
+              link: "/docs/algorithm/16-二叉树真题归纳与解读.md",
+            },
+            {
+              text: "17-特殊的二叉树——二叉搜索树专题",
+              link: "/docs/algorithm/17-特殊的二叉树——二叉搜索树专题.md",
+            },
+            {
+              text: "18-特殊的二叉树——平衡二叉树专题",
+              link: "/docs/algorithm/18-特殊的二叉树——平衡二叉树专题.md",
+            },
+            {
+              text: "19-特殊的二叉树——堆结构及其在排序中的应用",
+              link: "/docs/algorithm/19-特殊的二叉树——堆结构及其在排序中的应用.md",
+            },
+            {
+              text: "20-排序算法专题（上）",
+              link: "/docs/algorithm/20-排序算法专题（上）.md",
+            },
+            {
+              text: "21-排序算法专题（下）",
+              link: "/docs/algorithm/21-排序算法专题（下）.md",
+            },
+            {
+              text: "22-普通人也能吃透的动态规划思想专题（上）",
+              link: "/docs/algorithm/22-普通人也能吃透的动态规划思想专题（上）.md",
+            },
+            {
+              text: "23-普通人也能吃透的动态规划思想专题（下）",
+              link: "/docs/algorithm/23-普通人也能吃透的动态规划思想专题（下）.md",
+            },
+            {
+              text: "24-大厂真题训练与解读——微软真题",
+              link: "/docs/algorithm/24-大厂真题训练与解读——微软真题.md",
+            },
+            {
+              text: "25-大厂真题训练与解读——Google 真题",
+              link: "/docs/algorithm/25-大厂真题训练与解读——Google 真题.md",
+            },
+            {
+              text: "26-大厂真题训练与解读——腾讯真题",
+              link: "/docs/algorithm/26-大厂真题训练与解读——腾讯真题.md",
+            },
+            {
+              text: "27-大厂真题训练与解读——头条真题",
+              link: "/docs/algorithm/27-大厂真题训练与解读——头条真题.md",
+            },
+            {
+              text: "28-思维课：算法面试的评价逻辑",
+              link: "/docs/algorithm/28-思维课：算法面试的评价逻辑.md",
+            },
           ],
         },
       ],
