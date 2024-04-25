@@ -270,8 +270,23 @@ export default defineConfig({
           ],
         },
       ],
-    },
 
-    socialLinks: [{ icon: "github", link: "https://github.com/JIAXInT/Knowledge-base" }],
+      "/docs/algorithm/": [
+        {
+          text: "前端算法与数据结构面试：底层逻辑解读与大厂真题训练",
+          items: [
+            {
+              text: "1-面试总有套路，算法不是玄学——写给普通人的前端算法面试攻略",
+              link: "/docs/algorithm/1-面试总有套路，算法不是玄学——写给普通人的前端算法面试攻略",
+            },
+            {
+              text: "2-快速上手——从0到1掌握算法面试需要的数据结构（一）",
+              link: "/docs/algorithm/2-快速上手——从0到1掌握算法面试需要的数据结构（一）",
+            },
+          ],
+        },
+      ],
+      socialLinks: [{ icon: "github", link: "https://github.com/JIAXInT/Knowledge-base" }],
+    },
   },
 });
